@@ -1,0 +1,10 @@
+<!-- res/values/themes.xml -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Material Design 3 theme, no default ActionBar (custom Toolbar) -->
+    <style name="Theme.VLULab10" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#B71C1C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

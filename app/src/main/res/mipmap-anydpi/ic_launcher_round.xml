@@ -1,0 +1,13 @@
+<!-- Round variant: same vector (no separate round asset needed for the lab) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M12,12m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M17,15H7l2.5,-3.2 1.8,2.2 2.5,-3.2L17,15zM17,7H7v10h10V7z" />
+</vector>

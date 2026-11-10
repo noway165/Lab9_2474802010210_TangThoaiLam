@@ -1,0 +1,11 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+build/
+/captures
+.externalNativeBuild
+.cxx
+# Firebase config: keep out of PUBLIC repos (lab sheet warning). Remove this line only for a private repo.
+app/google-services.json
